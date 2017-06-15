@@ -19,7 +19,11 @@
 		<li>iu</li>
 		<li>BugFix_1</li>
 		<li>BugFix_2</li>
+<<<<<<< HEAD
 		<li>master</li>
+=======
+		<li>conflict_1</li>
+>>>>>>> conflict_1
 	</ul>
 </body>
 </html>
