@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 import com.choa.util.DBConnector;
 import com.choa.util.RowMaker;
 
-@Repository // NoticeDAO noticeDAO = new noticeDAO();
+@Repository("notice") // NoticeDAO noticeDAO = new noticeDAO();
 public class NoticeDAO {
 	@Inject
 	private DataSource dataSource;

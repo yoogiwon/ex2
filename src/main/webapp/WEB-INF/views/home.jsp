@@ -2,6 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
+	<a href="notice/noticeList">NoticeList</a>
 	<title>Home</title>
 </head>
 <body>
